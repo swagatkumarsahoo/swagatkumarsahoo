@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @swagatkumarsahoo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-swagatkumarsahoo/swagatkumarsahoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @swagatkumarsahoo
+🚀 Passionate Developer | DevOps Enthusiast | AI Explorer
+👀 I’m interested in building automation tools, ChatOps bots, and next-gen DevOps solutions.
+🌱 I’m currently learning advanced Python, AI-driven automation, and cloud deployment.
+💞️ I’m looking to collaborate on innovative tech projects, open-source contributions, and AI-powered web apps.
+📫 How to reach me: [swagatkumarsahoo2003@gmail.com] | [LinkedIn]
+😄 Pronouns: He/Him
+⚡ Fun fact: I can automate my way out of almost anything! 🚀🤖
