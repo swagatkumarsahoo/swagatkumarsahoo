@@ -1,6 +1,6 @@
 👋 Hi, I’m @swagatkumarsahoo
 
-🚀 Passionate Developer | DevOps Enthusiast | AI Explorer
+🚀 Passionate Developer | DevOps Explorer | AI & Automation Enthusiast
 
 👀 I’m interested in building automation tools, ChatOps bots, and next-gen DevOps solutions.
 
@@ -13,4 +13,7 @@
 😄 Pronouns: He/Him
 
 ⚡ Fun fact: I can automate my way out of almost anything! 🚀🤖
+             I love breaking things just to automate fixing them! 🤖🔥
+ | 
+
 
