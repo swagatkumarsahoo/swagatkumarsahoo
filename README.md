@@ -27,8 +27,20 @@
 
 ## 📂 Projects  
 🔹 **[Internship Automation Tool](https://github.com/yourrepo)** – Automated job applications using **Python & Selenium**.  
+🛠️ Tech Stack: Python, Selenium, Flask
+⚡ Automates internship applications on Internshala, reducing manual effort by 40%.
+🚀 Integrates AI-based resume filtering for better job recommendations.
+
 🔹 **[ChatOps Bot for DevOps](https://github.com/yourrepo)** – AI-powered assistant for **automating DevOps workflows**.  
+🛠️ Tech Stack: Python, OpenAI API, Flask, Slack API, Docker
+⚡ Automates DevOps workflows by integrating AI-powered command execution in chat platforms.
+🚀 Enables real-time monitoring, CI/CD triggers, and infrastructure management via chat commands.
+
 🔹 **[Portfolio Website](https://github.com/yourrepo)** – Built with **Next.js, Tailwind CSS, and Framer Motion**.  
+🛠️ Tech Stack: React, Next.js, Tailwind CSS, Framer Motion
+⚡ A modern, responsive, and stylish personal portfolio showcasing projects, skills, and achievements.
+🚀 Features smooth animations, blog system with MDX, and dark/light mode for better user experience.
+🔗 Built for showcasing expertise in Full-Stack Development & DevOps, optimized for SEO and performance.
 
 ---
 
