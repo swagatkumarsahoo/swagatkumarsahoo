@@ -68,7 +68,7 @@
 ## 🌐 Connect with Me  
 📫 Email: **swagatkumarsahoo2003@gmail.com**  
 🔗 LinkedIn: **https://www.linkedin.com/in/swagat-kumar-sahoo/**  
-🌍 Portfolio: **https://cool-cuchufli-0a2066.netlify.app/**  
+🌍 Portfolio: **https://friendly-sherbet-50f474.netlify.app/**  
 
 ---
 
